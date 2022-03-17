@@ -1,0 +1,27 @@
+
+:root{
+    
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+
+@media screen and (min-width: 375px) {
+  .attribution {
+    font-size: 10px;
+  }
+
+    
+}
+
+@media screen and (min-width: 1440px) {
+  .attribution {
+    font-size: 12px;
+  }
+}
